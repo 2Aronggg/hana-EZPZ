@@ -2,7 +2,7 @@
 
 <img src="app/assets/ezpz-logo.png" width="96" alt="HANA EZPZ logo" />
 
-# 하나 큐로컬 · HANA EZPZ
+# HANA EZPZ
 
 **기와체인 기반 스테이블코인으로, 방한 외국인이 선불 충전만으로 결제·더치페이·교통을 끝내는 여행자 금융 앱**
 
